@@ -1,2 +1,2 @@
 # TreasureHunt
-Treasure Hunt Game
+Assignment for Lv5 Programming Logic course
